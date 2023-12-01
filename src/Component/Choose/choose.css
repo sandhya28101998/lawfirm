@@ -1,0 +1,47 @@
+.choose-container {
+  padding: 0px 150px 200px 150px;
+}
+.choose-container h1 {
+  color: var(--css-white);
+  padding-bottom: 80px;
+  text-align: center;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77.23px;
+}
+.choose1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.chooseItems {
+  border: 1px solid var(--css-white);
+  padding: 20px 37px 30px 30px;
+  color: var(--css-white);
+  height: 377px;
+  width: 359px;
+  border-radius: 10px;
+}
+.chooseItems h2 {
+  padding: 20px 0px;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+}
+.chooseItems p {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22.75px;
+  opacity: 30%;
+  padding-bottom: 20px;
+  overflow: hidden;
+}
+.chooseItems button {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22.75px;
+  background-color: var(--css-orange);
+  color: var(--css-black);
+  border-radius: 23.5px;
+  padding: 10px 20px;
+}

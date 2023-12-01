@@ -1,0 +1,35 @@
+.subscribe-container {
+  padding: 30px 150px 180px 150px;
+  color: var(--css-white);
+}
+.subscribe-container h1 {
+  font-size: 55px;
+  font-weight: 500;
+  line-height: 75.35px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.subscribe [type="submit"] {
+  background-color: var(--css-orange);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19.18px;
+  padding: 10px 30px;
+  border-radius: 0px 8px 8px 0px;
+}
+.subscribe1 {
+  padding: 100px 200px;
+  background-color: var(--css-gray);
+}
+#gsearch {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 14px;
+  width: 289px;
+  padding: 10px;
+  margin-right: 10px;
+}
+.subscribe [name="gsearch1"] {
+  border-radius: 8px 0px 0px 8px;
+}

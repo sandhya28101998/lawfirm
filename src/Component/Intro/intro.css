@@ -1,0 +1,29 @@
+.Intro-container {
+  display: flex;
+  color: var(--css-white);
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px 150px 100px 150px;
+}
+.intro {
+  min-width: 500px;
+}
+.intro h2 {
+  font-size: 50px;
+  line-height: 87.22px;
+  font-weight: 600;
+}
+.intro1 h2 {
+  line-height: 52.01px;
+  font-weight: 600;
+}
+.intro1 p {
+  line-height: 29.25px;
+  font-size: 18px;
+  font-weight: 500;
+  padding-top: 10px;
+  opacity: 30%;
+}
+.line {
+  padding-right: 100px;
+}

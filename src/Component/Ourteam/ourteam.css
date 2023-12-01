@@ -1,0 +1,42 @@
+.ourteam-container {
+  padding: 0px 150px 200px 150px;
+  color: var(--css-white);
+}
+.ourteam-container h1 {
+  color: var(--css-white);
+  padding-bottom: 80px;
+  text-align: center;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77.23px;
+}
+.team1 {
+  display: flex;
+  padding: 20px 30px;
+  border-radius: 10px;
+  align-items: center;
+}
+.t :hover {
+  color: var(--css-black);
+  background-color: var(--css-orange);
+}
+.team-img img {
+  margin-right: 20px;
+}
+.ourteam-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 35px;
+  position: relative;
+}
+.team-data h3 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+}
+.team-data p {
+  opacity: 40%;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
